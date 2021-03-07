@@ -2,6 +2,7 @@
 * [LinkedIn](https://www.linkedin.com/in/daniel-elias-becerra-5b9579156/)
 * [UI/UX Design](https://www.behance.net/danelias)
 * [VR/AR/Graphics Development](https://www.youtube.com/watch?v=czRdti4ihmw&ab_channel=DanielEliasBecerra)
+* [GitLab](https://gitlab.com/DanElias)
 <!--
 **DanElias/DanElias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
