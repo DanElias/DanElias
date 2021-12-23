@@ -1,5 +1,5 @@
 ### Happy to see you here 👋
-I am a recent B.S. Computer Science grad and Software Engineer with more than 1 year of industry experience in full stack web, VR and AI development searching for challenges abroad.
+I am a recent B.S. Computer Science grad and Software Engineer with more than 1 year of industry experience in full stack web, VR and AI development
 * [LinkedIn](https://www.linkedin.com/in/daniel-elias-becerra-5b9579156/)
 * [UI/UX Design](https://www.behance.net/danelias)
 * [VR/AR/Graphics Development](https://www.youtube.com/watch?v=czRdti4ihmw&ab_channel=DanielEliasBecerra)
