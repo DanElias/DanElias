@@ -1,6 +1,6 @@
 ### Happy to see you here 👋
 I'm a B.S. Computer Science grad and Software Engineer with more than 5 years of industry experience in full stack web development, Google Cloud AI, Generative AI (LLMs), and Virtual Reality development
-* [LinkedIn](https://www.linkedin.com/in/daniel-elias-becerra-5b9579156/)
+* [LinkedIn](https://www.linkedin.com/in/daniel-elias-becerra)
 * [UI/UX Design](https://www.behance.net/danelias)
 * [VR/AR/Graphics Development](https://www.youtube.com/watch?v=czRdti4ihmw&ab_channel=DanielEliasBecerra)
 * [GitLab](https://gitlab.com/DanElias)
